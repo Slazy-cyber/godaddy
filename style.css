@@ -1,0 +1,132 @@
+.wow{
+    padding-top: 70px;
+    /* display: flex; */
+    gap: 30px;
+}
+.btn1{
+    margin-right: 9px;
+    padding: 10px 20px;
+    border-radius: 100px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.btn{
+    margin-right: 9px;
+    padding: 10px 20px;
+    border-radius: 100px;
+    background-color: white;
+    font-size: 20px;
+}
+.mother{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 60px;
+
+}
+.pic1{
+    background-image: url(./image/intl-img-hp-recore-domains-large-landscape.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 600px;
+    height: 650px;  
+    border-radius: 15px;
+    line-height: 25px; 
+}
+.pic2{
+    background-image: url(./image/img-hp-recore-co-large-landscape.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 600px;
+    height: 650px; 
+    border-radius: 15px;     
+}
+.body{
+    margin-top: 470px;
+    margin-left: 17px;
+}
+.dom{
+    font-size:30px ;
+    font-weight: bold;
+}
+.get{
+    font-size:18px ;
+}
+.btnn{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+}
+.body2{
+    margin-top: 470px;
+    margin-left: 17px;
+    
+}
+.dom2{
+    font-size:30px ;
+    font-weight: bold;
+}
+.get2{
+    font-size:18px ;
+}
+.btnn2{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+}
+.sec{
+    margin-top: 100px;
+}
+.grow{
+    font-size: 60px;
+    font-weight: bold;
+}
+.but{
+    font-size: 20px;
+    font-weight: bold;
+}
+.image1{
+    width: 600px;
+    height: 350px;
+}
+.image2{
+    width: 600px;
+    height: 350px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+}
+.prof{
+    font-size: 20px;
+    font-weight: bold;
+}
+.sho{
+    font-size: 18px;
+}
+.but1{
+    padding: 10px 20px;
+    background-color: white;
+    font-size:18px ;
+    border-radius: 5px;
+}
+.prof2{
+    font-size: 20px;
+    font-weight: bold;
+}
+.sho2{
+    font-size: 18px;
+}
+.but2{
+    padding: 10px 20px;
+    background-color: white;
+    font-size:18px ;
+    border-radius: 5px;
+}
