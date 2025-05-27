@@ -130,3 +130,159 @@
     font-size:18px ;
     border-radius: 5px;
 }
+
+
+/* ...existing code... */
+
+/* Responsive styles for screens 0-480px */
+@media (max-width: 480px) {
+    .wow {
+        padding-top: 30px;
+        gap: 15px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .btn1, .btn {
+        font-size: 16px;
+        padding: 8px 14px;
+        margin-right: 5px;
+    }
+    .mother {
+        flex-direction: column;
+        gap: 20px;
+        margin-top: 30px;
+        align-items: center;
+    }
+    .pic1, .pic2 {
+        width: 95vw;
+        max-width: 100%;
+        height: 30
+        0px;
+        border-radius: 10px;
+        margin-bottom: 70px;
+    }
+    .body, .body2 {
+        margin-top: 170px;
+        margin-left: 8px;
+    }
+    .dom, .dom2 {
+        font-size: 20px;
+    }
+    .get, .get2 {
+        font-size: 14px;
+    }
+    .btnn, .btnn2 {
+        font-size: 14px;
+        padding: 8px 14px;
+    }
+    .sec {
+        margin-top: 40px;
+    }
+    .grow {
+        font-size: 28px;
+    }
+    .but {
+        font-size: 16px;
+    }
+    .image1, .image2 {
+        width: 95vw;
+        max-width: 100%;
+        height: 150px;
+    }
+    .container {
+        flex-direction: column;
+        gap: 20px;
+        margin-top: 20px;
+        align-items: center;
+    }
+    .prof, .prof2 {
+        font-size: 16px;
+    }
+    .sho, .sho2 {
+        font-size: 14px;
+    }
+    .but1, .but2 {
+        font-size: 14px;
+        padding: 8px 14px;
+    }
+}
+/* ...existing code... */
+
+/* ...existing code... */
+
+/* Responsive styles for screens 481px-769px */
+@media (min-width: 481px) and (max-width: 769px) {
+    .wow {
+        padding-top: 50px;
+        gap: 20px;
+        flex-direction: column;
+        align-items: center;
+    }
+    .btn1, .btn {
+        font-size: 18px;
+        padding: 9px 16px;
+        margin-right: 7px;
+    }
+    .mother {
+        flex-direction: column;
+        gap: 25px;
+        margin-top: 40px;
+        align-items: center;
+    }
+    .pic1, .pic2 {
+        width: 90vw;
+        max-width: 500px;
+        height: 350px;
+        border-radius: 12px;
+        margin-top: 50px;
+    }
+    .body, .body2 {
+        margin-top: 220px;
+        margin-left: 10px;
+    }
+    .dom, .dom2 {
+        font-size: 24px;
+    }
+    .get, .get2 {
+        font-size: 16px;
+    }
+    .btnn, .btnn2 {
+        font-size: 16px;
+        padding: 9px 16px;
+        
+    }
+    .btnn{
+        margin-bottom: 200px;
+    }
+    .sec {
+        margin-top: 60px;
+    }
+    .grow {
+        font-size: 36px;
+    }
+    .but {
+        font-size: 18px;
+    }
+    .image1, .image2 {
+        width: 90vw;
+        max-width: 500px;
+        height: 200px;
+    }
+    .container {
+        flex-direction: column;
+        gap: 25px;
+        margin-top: 30px;
+        align-items: center;
+    }
+    .prof, .prof2 {
+        font-size: 18px;
+    }
+    .sho, .sho2 {
+        font-size: 16px;
+    }
+    .but1, .but2 {
+        font-size: 16px;
+        padding: 9px 16px;
+    }
+}
+/* ...existing code... */
